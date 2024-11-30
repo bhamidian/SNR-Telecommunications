@@ -1,2 +1,1 @@
 # SNR-Telecommunications
-# SNR-Telecommunications
